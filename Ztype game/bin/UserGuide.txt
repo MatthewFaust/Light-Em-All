@@ -1,0 +1,18 @@
+The game consists of 10 levels, 1 - 9 and final level. 
+During each level you type the first letter of the word that is orange, or if there 
+is no orange word you have to create a new one by typing the first letter of any black word. 
+When there is an orange word that is the only word you can finish typing. 
+
+The triangle on the bottom represents the ship that is "destroying" the words. 
+The ship moves over to whatever word you are currently typing on the x axis. 
+
+When playing the game you get 10 points for each correct character typed. 
+The "words" can vary from 4 to 10 characters. 
+Every 100 points the level increases with the background changing 
+every 2 levels except for the first level where it changes from white on level 
+one to yellow on 2. When a level increases the display in the bottom right changes 
+to the corresponding level and word frequency increases. The game is a wave style 
+game so once "final level" is active, it will not end until the user fails to keep up with the words. 
+
+The game ends when a word, either black or orange, falls below the bottom of the screen. 
+Finally, if you would like to reset the game while playing press "tab".
