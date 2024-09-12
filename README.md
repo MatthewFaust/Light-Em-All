@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/fe0d3c72-b99a-458e-8d8c-af74d440be63
+
 This code is a Java implementation of a word-based typing game, leveraging a functional programming approach with a linked list data structure to manage the words. Here’s a breakdown of the main components:
 
 ### Interfaces
